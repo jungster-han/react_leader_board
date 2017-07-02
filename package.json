@@ -2,8 +2,9 @@
   "name": "react_leader_board",
   "version": "1.0.0",
   "description": "FCC LeaderBoard project",
-  "main": "webpack.config.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --content-base app/ --inline --hot"
   },
