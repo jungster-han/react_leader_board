@@ -1,7 +1,7 @@
 # react_leader_board
 ### FCC leader board project
 #### It shows leader board of top 100 Free code campers from all time or from past 30 days.
-
+[App on Heroku](https://warm-stream-59283.herokuapp.com/)
 
 "dependencies":
 
@@ -18,9 +18,4 @@
     "react-md-spinner": "^0.2.4",
     "webpack": "^3.0.0"
  
-  
-  
-  
-  
-  
   ![Uh Oh something went wrong](https://www.dropbox.com/s/in2p3q9xtvdy7hv/Screenshot%20from%202017-07-02%2005-37-18.png?raw=1  "Sample Image")
