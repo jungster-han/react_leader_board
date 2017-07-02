@@ -1,11 +1,11 @@
 import React from 'react';
-
-export default class Header extends React.Component {
+import ReactDOM from 'react-dom'
+export default class Nav extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div className="navbar-header">
-        FCC Project, HackerRank rankings
+      <a className="fcc-link" href="https://freecodecamp.com">  <h1>FCC Project, HackerRank rankings</h1></a>
         </div>
       </nav>
     );
